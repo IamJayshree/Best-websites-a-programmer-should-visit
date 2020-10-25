@@ -470,6 +470,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 
+
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
@@ -666,6 +667,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Video Tutorials
 - [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ): Algorithm tutorials playlists by an Indian youtuber Aditya verma.
 - [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
+- [Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ): Detailed Videos on topics like Graph Algorithms, Number theory, Dynamic Programming.        Really useful for knowledge, competitive coding and interviews
 - [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
 - [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
